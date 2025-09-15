@@ -55,8 +55,9 @@ At 172.16.31.2<br>
 <img width="1920" height="1080" alt="Screenshot 2025-09-15 133333" src="https://github.com/user-attachments/assets/e02ded7a-dab3-431f-ad0e-bf84e063e6f9" />
 At 172.16.31.3<br>
 <img width="1920" height="1080" alt="Screenshot 2025-09-15 133813" src="https://github.com/user-attachments/assets/ff1b819a-b05e-4022-930c-09995571e308" />
-<img width="1920" height="1080" alt="Screenshot 2025-09-15 134230" src="https://github.com/user-attachments/assets/63261623-23eb-4d6f-b137-d9e2c4bf3949" />
 AT 172.16.31.4<br>
+<img width="1920" height="1080" alt="Screenshot 2025-09-15 134230" src="https://github.com/user-attachments/assets/63261623-23eb-4d6f-b137-d9e2c4bf3949" />
+
 •	PDU details for remote communication<br>
 At 10.10.10.2<br>
 <img width="1920" height="1080" alt="Screenshot 2025-09-15 134523" src="https://github.com/user-attachments/assets/4ccd7115-8a45-4eac-9315-e4732097a7f3" />
