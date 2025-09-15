@@ -1,5 +1,5 @@
 # Ex. No: 6 Identifying MAC and IP Addresses Using Packet Tracer
-# Date:
+# Date:15-09-2025
 ________________________________________
 # Objective
 To use Cisco Packet Tracer simulation mode to capture and analyze MAC and IP address information for both local and remote network communication.
@@ -10,6 +10,8 @@ ________________________________________
 •	PCs, switches, router, hub, and wireless access point (as per given setup)<br>
 ________________________________________
 # Network Topology Diagram
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/939e6a7a-b7b4-48af-9f30-ceab8a5914fd" />
+
 # Description:
 •	The topology contains a local network (172.16.31.0/24) connected to a remote network (10.10.10.0/24) via a router.<br>
 •	Devices include PCs, switches, hub, and wireless AP.<br>
@@ -49,8 +51,22 @@ Switch1	000C:85CC:1DA7	00D0:D311:C788	N/A	N/A<br>
 ________________________________________
 # Output (Screenshots)
 •	PDU details for local communication<br>
+At 172.16.31.2<br>
+<img width="1920" height="1080" alt="Screenshot 2025-09-15 133333" src="https://github.com/user-attachments/assets/e02ded7a-dab3-431f-ad0e-bf84e063e6f9" />
+At 172.16.31.3<br>
+<img width="1920" height="1080" alt="Screenshot 2025-09-15 133813" src="https://github.com/user-attachments/assets/ff1b819a-b05e-4022-930c-09995571e308" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-15 134230" src="https://github.com/user-attachments/assets/63261623-23eb-4d6f-b137-d9e2c4bf3949" />
+AT 172.16.31.4<br>
 •	PDU details for remote communication<br>
+At 10.10.10.2<br>
+<img width="1920" height="1080" alt="Screenshot 2025-09-15 134523" src="https://github.com/user-attachments/assets/4ccd7115-8a45-4eac-9315-e4732097a7f3" />
+
 •	Tables showing MAC/IP changes through each device<br>
+For Local Network Communication<br>
+<img width="1920" height="1080" alt="Screenshot 2025-09-15 135604" src="https://github.com/user-attachments/assets/f7403aa9-d18c-4851-a9cd-f741b2ddb894" />
+For Remote Network Communication<br>
+<img width="1920" height="1080" alt="Screenshot 2025-09-15 135629" src="https://github.com/user-attachments/assets/eb09e0d4-8575-4d35-b361-fc33a59fad3b" />
+
 ________________________________________
 # Result
 Successfully captured and analyzed MAC and IP addresses for both local and remote communications. Verified that MAC addresses change at each hop while IP addresses remain constant from source to destination.
